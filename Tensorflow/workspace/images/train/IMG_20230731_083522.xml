@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>IMG_20230731_083522.jpg</filename>
+	<path>C:\Users\alok7\Dropbox\Desktop\Jupyter\College\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\IMG_20230731_083522.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1468</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>1340</ymin>
+			<xmax>1199</xmax>
+			<ymax>2196</ymax>
+		</bndbox>
+	</object>
+</annotation>
